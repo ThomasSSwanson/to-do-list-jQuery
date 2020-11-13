@@ -39,6 +39,7 @@ input {
 
 ol {
   padding-left: 20px;
+  user-select: none;
 }
 
 ol li {
